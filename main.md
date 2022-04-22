@@ -10,7 +10,9 @@ headingDivider: 1
 
 
 # ブロックチェーンの活用事例
-## 学際ゼミ２期 / CryptoAge / Cloud League
+**Basic** / Engineer / Business
+
+学際ゼミ２期 / CryptoAge / Cloud League
 慶應義塾大学理工学部3年
 高比良悠
 
@@ -26,6 +28,15 @@ headingDivider: 1
 などが有名
 （後ほど補足します）
 
+# ブロックチェーンは大きく２種類に大別される
+- パブリックチェーン
+- プライベートチェーン（今回は説明を省略する）
+
+# ブロックチェーンの抱える課題
+- 51%攻撃
+
+（今回は説明を省略する）
+
 # リーディングについて
 ## 「サトシ・ナカモトのホワイトペーパー」
 
@@ -34,9 +45,11 @@ headingDivider: 1
 
 
 # ブロックチェーンのユースケース
-ブロックチェーンが活用される分野は大まかに以下の通り
+ブロックチェーンの活用事例がある分野は以下の通り
+
 - 金融
 - 
+![BlockchainMarketSize] (assets/blockchainmarket.png)
 
 <!-- 金融 -->
 # 金融
@@ -71,6 +84,8 @@ JPYCのホワイトペーパー
 
 既存の銀行が行なっていたような取引を、
 
+
+
 ## 論点
 
 
@@ -79,21 +94,27 @@ JPYCのホワイトペーパー
 
 ## 事例
 （ETH）Compound
-（Astar）Starlay
+（Astar）Starlay Finance
 
 
 # DEX 分散型取引所
+
+これまで、中央集権型の取引所（CEX）における
+
 （ETH）
 （Astar）
 
 
-# DAO
+# DAO 分散型組織
+
+ここでは特に、投資組織としてのDAOに注目する。
+
 
 
 # 
 
 
-# 保健
+# 保険
 
 
 # コンテンツ
